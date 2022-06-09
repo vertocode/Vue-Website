@@ -1,6 +1,6 @@
 # vue-website
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
